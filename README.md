@@ -1,3 +1,6 @@
+<img src="https://www.hhog.com/-/media/PublicImages/Hedgehog/Hedgehog-logo-4color-275x46.jpg" alt="Hedgehog Development" border="0"> 
+
+
 Sitecore Field Fallback Module
 =======================
 
@@ -9,6 +12,10 @@ Field Fallback is the ability for a field's value to come from somewhere other t
 * Language fallback - This is based on [Alex Shyba's Language Fallback module](http://trac.sitecore.net/LanguageFallback)
 
 The concept for this module came about when Alex Shyba released his Language Fallback module. While the initial prototype, written by [Elena Zlateva](http://twitter.com/ezlateva), was heavily based on Alex' work there isn't too much remaining in the FieldFallback.Kernel project. However, to support language fallback while using the Field Fallback module we have provided Partial Language Fallback in the Processors.Globalization project. This code is still very much original to Alex. [Charles Turano](http://sdn.sitecore.net/MVP/MVPs/Charles%20Turano.aspx) also provided some much appreciated help around performance tuning and getting this to be as fast as possible. 
+
+Blog post about this feature: [http://seankearney.com/post/Sitecore-Content-Fallback-and-the-Field-Fallback-Module](http://seankearney.com/post/Sitecore-Content-Fallback-and-the-Field-Fallback-Module)  
+
+Sitecore Marketplace URL: [https://marketplace.sitecore.net/en/Modules/Field_Fallback.aspx](https://marketplace.sitecore.net/en/Modules/Field_Fallback.aspx)
 
 Download packages
 ----
